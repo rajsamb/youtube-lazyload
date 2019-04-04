@@ -7,11 +7,11 @@
 1. npm install youtube-lazyload
 
 2. On HTML use following code:
-        <div class="wrapper">
-            <div class="youtube" data-embed="EQW3n5aGdSI">
-                <div class="play-button"></div>
-            </div>
+    <div class="wrapper">
+        <div class="youtube" data-embed="EQW3n5aGdSI">
+            <div class="play-button"></div>
         </div>
+    </div>
 
     Note: 
 
@@ -88,5 +88,5 @@
 
 ##  Source
 
-    <p>This is the exact copy of the code by <a href="https://codepen.io/tutsplus/">https://codepen.io/tutsplus/</a>. The working example is available
-    on the <a href="https://codepen.io/tutsplus/pen/RRVRro">Codepen</a>.</p>
+<p>This is the exact copy of the code by <a href="https://codepen.io/tutsplus/">https://codepen.io/tutsplus/</a>. The working example is available
+on the <a href="https://codepen.io/tutsplus/pen/RRVRro">Codepen</a>.</p>
