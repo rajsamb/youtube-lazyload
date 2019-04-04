@@ -1,0 +1,24 @@
+{
+  "name": "youtube-lazyload",
+  "version": "1.0.0",
+  "description": "Lazy load youtube video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajsamb/youtube-lazyload.git"
+  },
+  "keywords": [
+    "Lazyload",
+    "Youtube",
+    "Video"
+  ],
+  "author": "Sambhu Raj Singh <sambhu.raj.singh@gmail.com> (node.howtofixthis.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajsamb/youtube-lazyload/issues"
+  },
+  "homepage": "https://github.com/rajsamb/youtube-lazyload#readme"
+}
