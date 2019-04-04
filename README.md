@@ -8,19 +8,21 @@
 
 2. On HTML use following code:
 
-<div class="wrapper">
-    <div class="youtube" data-embed="EQW3n5aGdSI">
-        <div class="play-button"></div>
+    ```
+    <div class="wrapper">
+        <div class="youtube" data-embed="EQW3n5aGdSI">
+            <div class="play-button"></div>
+        </div>
     </div>
-</div>
+    ```
 
-Note: 
+    Note: 
 
-Value of the data-embed is the id of the youtube video. For e.g.
+    Value of the data-embed is the id of the youtube video. For e.g.
 
-if the youtube link is: https://www.youtube.com/embed/EQW3n5aGdSI
+    if the youtube link is: https://www.youtube.com/embed/EQW3n5aGdSI
 
-then, the data-embed is : EQW3n5aGdSI
+    then, the data-embed is : EQW3n5aGdSI
 
 3.  Use the following style:
 
