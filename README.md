@@ -24,6 +24,19 @@
 
     then, the data-embed is : EQW3n5aGdSI
 
+
+    To allow fullscreen, add attribute <code>data-fullscreen="true"</code>. For e.g. 
+
+    ```
+    <div class="wrapper">
+        <div class="youtube" data-embed="EQW3n5aGdSI" data-fullscreen="true">
+            <div class="play-button"></div>
+        </div>
+    </div>
+    ```
+
+    To disable fullscreen, either remove attribute "data-fullscreen" or set it to false <code>data-fullscreen="false"</code>
+
 3.  Use the following style:
 
     <pre>
