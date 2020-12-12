@@ -20,8 +20,8 @@ module.exports = function() {
 
             iframe.setAttribute("frameborder", "0");
 
-            if (fullscreen == 'true') {
-                iframe.setAttribute("allowfullscreen", "");
+            if (fullscreen === 'true') {
+                iframe.setAttribute("allowfullscreen", true);
             }
             
             iframe.setAttribute("src", "https://www.youtube.com/embed/"+ this.dataset.embed +"?rel=0&showinfo=0&autoplay=1");
